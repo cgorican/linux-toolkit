@@ -1,0 +1,69 @@
+﻿Banner,Username,Secret,Alternative Usernames,Alternative Secret
+ACTi,admin ,123456,Admin,123456
+Amcrest,admin,admin,,
+American Dynamics,admin,admin,admin,9999
+Arecont Vision,,,,
+AvertX,admin,1234,,
+Avigilon,Administrator,<blank>,admin,admin
+Axis,,Requires unique password creation,root,pass
+Basler,admin,admin,,
+Bosch (6.0+),,Requires unique password creation,,
+Brickcom,admin,admin,,
+Canon,root,camera,,
+Cisco,,Requires unique password creation,,
+Dahua,,Requires unique password creation,,
+Digital Watchdog,admin,admin,,
+DRS,admin,1234,,
+DVTeI,Admin,1234,,
+DynaColor,Admin,1234,,
+FLIR,admin,fliradmin,,
+FLIR (Dahua OEM),admin,admin,,
+FLIR (Quasar/Ariel),admin,admin,,
+Foscam,admin,<blank>,,
+GeoVision,admin,admin,,
+Grandstream,admin,admin,,
+Hanwha,admin,Requires unique password creation,,
+Hikvision. Firmware 5.3.0 and up,,Requires unique password creation,admin,1234
+Honeywell, admin,1234,,
+IndigoVision (BX/GX),Admin,1234,,
+IndigoVision (Ultra),,,,
+Intellio,admin,admin,,
+Interlogix, admin,1234,,
+IPX-DDK,root,admin,root,Admin
+JVC,admin,jvc,,
+Longse,admin,12345,,
+Lorex,admin,admin,,
+lQinVision,root,system,,
+LTS,admin,Requires unique password creation,admin,12345
+March Networks,admin,<blank>,,
+Mobotix,admin,meinsm,,
+Northern: Firmware 5.3.0 and up,admin,Requires unique password creation,admin,1234
+Oncam,admin,admin,,
+Panasonic: Firmware 2.40 and up,Requires unique username creation,Requires unique password creation,admin,1
+Pelco: New firmwares,admin,Requires unique password creation,admin,admin
+Pixord,admin,admin,,
+Q-See,admin,admin,admin,123456
+Reolink,admin,<blank>,,
+Samsung (new),admin,Requires unique password creation,admin,4321
+Samsung Electronics,root,root,admin,4321
+Samsung Techwin (old),admin,1111111,,
+Sanyo,admin,admin,,
+Scallop,admin,password,,
+Sentry360 (mini),admin,1234,,
+Sentry360 (pro),,,,
+Sony,admin,admin,,
+Speco,admin,1234,,
+Stardot,admin,admin,,
+Starvedia,admin,<blank>,,
+Sunell,admin,admin,,
+SV3C,admin,123456,,
+Swann,admin,12345,,
+Toshiba,root,ikwd,,
+Trendnet,admin,admin,,
+Ubiquiti,ubnt,ubnt,,
+Uniview,admin,123456,,
+VideolQ,supervisor,supervisor,,
+Vivotek,root,<blank>,,
+"W-Box (Hikvision OEM, old)",admin,wbox123,,
+"W-Box (Sunell OEM, new)",admin,admin,,
+Wodsee,admin,<blank>,,
